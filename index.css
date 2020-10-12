@@ -1,0 +1,11 @@
+.myImg{
+    height: 200px;
+    width: 200px;
+}
+#fixMe{
+    display: flex;
+    justify-content:space-evenly;
+}
+#changeMe {
+    width: 200px;
+}
